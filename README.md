@@ -1,3 +1,6 @@
 # midairfeet
 A place of irrelevance, decent words, and wonder.
-<p>A playground for guests</p>
+<p>The location where words kick blankets over.</p>
+<p>An HTML playground for guests and myself</p>
+<p></p>
+Listening List
