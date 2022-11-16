@@ -1,4 +1,4 @@
 # midairfeet
-A place of irrelevance, decent words, and wonder.
+A place of irrelevance and wonder.
 <p>Where words kick the blankets over.</p>
 
