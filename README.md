@@ -1,2 +1,2 @@
 # midairfeet
-A place of irrelevance - where words kick the blanket over
+where words kick the blanket over
